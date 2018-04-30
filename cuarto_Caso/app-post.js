@@ -24,4 +24,4 @@ function Raices(a, b, c) {
 assert.deepEqual(Raices(1,-5,0), [[5,0],[0,0]]);
 assert.deepEqual(Raices(2,5,0), [[0,0],[-2.5,0]]);
 assert.deepEqual(Raices(1,5,0), [[0,0],[-5,0]]);
-assert.deepEqual(Raices(1,0,1), [[0,2],[0,-2]]);
+assert.deepEqual(Raices(1,0,1), [[0,1],[0,-1]]);
