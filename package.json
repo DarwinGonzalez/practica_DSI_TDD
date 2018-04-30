@@ -1,0 +1,25 @@
+{
+  "name": "practica_tdd",
+  "version": "1.0.0",
+  "description": "Practica de DSI de TDD",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarwinGonzalez/practica_DSI_9.git"
+  },
+  "author": "Darwin Gonzalez Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarwinGonzalez/practica_DSI_9/issues"
+  },
+  "homepage": "https://github.com/DarwinGonzalez/practica_DSI_9#readme",
+  "dependencies": {
+    "assert": "^1.4.1"
+  }
+}
